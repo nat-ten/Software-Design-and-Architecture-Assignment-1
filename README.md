@@ -21,10 +21,10 @@ javac *.java
 java TestClass
 ```
 
-TestClass.java 
+## TestClass.java 
 <img width="723" height="91" alt="image" src="https://github.com/user-attachments/assets/747cd1b8-7ebb-4127-b195-65a824624826" />
 
-UML Diagram
+## UML Diagram
 <img width="469" height="460" alt="image" src="https://github.com/user-attachments/assets/391ada08-9791-4703-8415-574b847bc834" />
 
 
