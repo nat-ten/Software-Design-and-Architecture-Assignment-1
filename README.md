@@ -1,7 +1,7 @@
 ## Software Design and Architecture Assignment 1
 
-Madhav Patel: 100820184
-Nathaniel Tenn: 100795860
+Madhav Patel: 100820184 <br>
+Nathaniel Tenn: 100795860 <br>
 Edgar Aguilar Guerrero: 100823444
 
 ##  Repository Structure
