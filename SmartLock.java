@@ -8,7 +8,7 @@ public class SmartLock extends Product{
     }
 
     @Override
-    void print() {
+    public void print() {
         System.out.println("Brand: " + brand +
                 ". Battery: " + battery);
     }

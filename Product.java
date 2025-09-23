@@ -1,7 +1,7 @@
 public class Product {
     String brand;
 
-    void print() {
+    public void print() {
         System.out.println("Brand: " + brand);
     }
 }

@@ -3,7 +3,7 @@ public class FactoryA implements SmartDeviceFactory {
     int power;
     int battery;
 
-    FactoryA(String brand, int power, int battery) {
+    public FactoryA(String brand, int power, int battery) {
         this.brand = brand;
         this.power = power;
         this.battery = battery;

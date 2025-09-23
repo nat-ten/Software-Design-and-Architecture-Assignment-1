@@ -12,7 +12,7 @@ public class TestClass {
         BrandAProducts.add(factoryA.createBulb());
         BrandAProducts.add(factoryA.createLock());
         BrandBProducts.add(factoryB.createBulb());
-        BrandBProducts.add(factoryA.createLock());
+        BrandBProducts.add(factoryB.createLock());
 
         for (int i = 0; i < BrandAProducts.size(); i++) {
             BrandAProducts.get(i).print();
