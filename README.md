@@ -7,7 +7,7 @@ Edgar Aguilar Guerrero: 100823444
 ##  Repository Structure
 All source files are located in the Software Design and Architecture folder. These files are interdependent and work together to run the program. The main entry point is TestClass.java, which can also be found in the same folder and is used to test the functionality of the program.
 
-TestClass.java
+TestClass.java <br>
 .gitignore
 
 ## How to Run the Project
